@@ -129,7 +129,7 @@ prepend_menus = [
     
     bpy.types.VIEW3D_MT_edit_mesh_context_menu,
     
-    bpy.types.VIEW3D_MT_gpencil_edit_context_menu,
+    bpy.types.VIEW3D_MT_greasepencil_edit_context_menu,
     
     bpy.types.VIEW3D_MT_edit_lattice_context_menu,
     
